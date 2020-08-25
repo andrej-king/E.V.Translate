@@ -1,0 +1,18 @@
+mis värvi see on?==какой это цвет?, какого это цвета?
+valge==белый
+kollane==жёлтый
+oranž==оранжевый
+roosa==розовый
+punane==красный
+pruun==коричневый
+roheline==зелёный
+sinine==синий, голубой
+lilla==фиолетовый
+hall==серый
+must==чёрный
+helepruun==светло-коричневый
+heleroheline==светло-зелёный
+helesinine==голубой
+tumepruun==тёмно-коричневый
+tumeroheline==тёмно-зелёный
+tumesinine==тёмно-синий

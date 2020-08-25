@@ -1,0 +1,19 @@
+eesti==эстония
+tallinn==таллинн
+maja==дом
+klaas==стакан
+linn==город
+tanav==улица
+seina==стена
+raamat==книга
+raamatukogu==библиотека
+sona==слово
+isa==папа
+ema==мама
+koer==собака
+tee==чай
+mina==я
+kass==кот
+kuidas laheb?==как дела?
+mis see on?==что это?
+aken==окно

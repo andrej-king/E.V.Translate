@@ -1,0 +1,16 @@
+perekond==семья
+vanaisa==дедушка
+vanaema==бабушка
+tema ja tema==он и она
+isa==отец
+ema==мать
+tema ja tema==он и она
+poeg==сын
+tütar==дочь
+vend==брат
+õde==сестра
+onu==дядя
+tädi==тётя
+me oleme perekond==мы - семья
+perekond ei ole väike==семья не маленькая
+perekond on suur==семья большая

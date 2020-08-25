@@ -1,0 +1,21 @@
+esmaspäev==понедельник
+teisipäev==вторник
+kolmapäev==среда
+neljapäev==четверг
+reede==пятница
+laupäev==суббота
+pühapäev==воскресенье
+esmaspäeval==в понедельник
+teisipäeval==во вторник
+kolmapäeval==в среду
+neljapäeval==в четверг
+reedel==в пятницу
+laupäeval==в субботу
+pühapäeval==в воскресенье
+esmaspäeviti==каждый понедельник, по понедельникам
+teisipäeviti==каждый вторник, по вторникам
+kolmapäeviti==каждую среду, по средам
+neljapäeviti==каждый четверг, по четвергам
+reedeti==каждую пятницу, по пятницам
+laupäeviti==каждую субботу, по субботам
+pühapäeviti==каждое воскресенье, по воскресеньям

@@ -1,0 +1,24 @@
+jaanuar==январь
+veebruar==февраль
+märts==март
+aprill==апрель
+mai==май
+juuni==июнь
+juuli==июль
+august==август
+september==сентябрь
+oktoober==октябрь
+november==ноябрь
+detsember==декабрь
+jaanuaris==в январе
+veebruaris==в феврале
+märtsis==в марте
+aprillis==в апреле
+mais==в мае
+juunis==в июне
+juulis==в июле
+augustis==в августе
+septembris==в сентябре
+oktoobris==в октябре
+novembris==в ноябре
+detsembris==в декабре
